@@ -60,7 +60,8 @@ border-width: 0.03in;
 padding: 5px;
 display: block;
   margin: auto;
-  width: 75%;
+  width: 55%;
+  height: auto
 }
 /** creating a design CSS to make my contact information pop out**/
 ol{
